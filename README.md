@@ -38,7 +38,7 @@ Tasks are stored in a simple array (`tasks`), which acts as the single source of
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Husnainawm/TO-DO-List.git>
    ```
 2. Open `index.html` in your browser — no build steps or installs required.
 
